@@ -1,3 +1,3 @@
 Predicting the severity of an accident
 
-The ojective of this project is to come up with a supervised machine learning model which will help us determine with the attributes such as weather and road conditions to predict the potential and a severity of an accident.
+The ojective of this project is to come up with a supervised machine learning model which will help us determine with the attributes such as weather and road conditions to predict the potential and a severity of an accident. The utility of this project would lie in its ability to give advanced warning to clients for their trip safety. With this project we aim to reduce the number of accidents by giving proper advice to trip planners so they may avoid a potential fatality or provide Emergency response services with data which would reduce their response time to accidents by providing them situational awareness.
